@@ -181,7 +181,7 @@ article p {
     left: 32%;
     top: 38%;
     width: 1.3em;
-    height: .16em;
+    height: .1em;
     background: white;
     box-shadow: 0 0.25em 0 0 white, 0 0.5em 0 0 white;
   }
@@ -532,7 +532,6 @@ article p {
     padding-left: 5.2em;
     padding-top: 4.67em;
     padding-bottom: 8em;
-    ;
   }
   article div {
     padding-bottom: 2em;
@@ -540,12 +539,9 @@ article p {
   article a {
     font-size: 2em;
   }
-  article div {}
   article p {
     -webkit-column-count: 2;
-    /* Chrome, Safari, Opera */
     -moz-column-count: 2;
-    /* Firefox */
     column-count: 2;
     column-gap: 5.13em;
     font-size: .933em;
@@ -699,9 +695,7 @@ article p {
   article div {}
   article p {
     -webkit-column-count: 2;
-    /* Chrome, Safari, Opera */
     -moz-column-count: 2;
-    /* Firefox */
     column-count: 2;
     column-gap: 5.13em;
     font-size: .933em;
